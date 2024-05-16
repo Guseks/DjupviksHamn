@@ -15,8 +15,9 @@ export const BackGroundImg = styled.img`
 
 export const Navbar = styled.div`
   width: 100%;
-  height: 50px;
   background-color: green;
+  display: flex;
+  
 `;
 
 export const MainContent = styled.div`
